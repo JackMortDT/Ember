@@ -1,0 +1,3 @@
+[submodule "Ember-sample-route"]
+	path = Ember-sample-route
+	url = git@github.com:LuisSas/Ember-sample-route.git
